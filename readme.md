@@ -1,4 +1,4 @@
-# Plugin Name
+# PasteBoard
 Tags: screenshot, copy paste, crop images
 Requires at least: 4.0
 Tested up to: 4.1.1
